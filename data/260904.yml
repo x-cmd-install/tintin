@@ -7,7 +7,7 @@ about:
   head: 53f5c09
   archived: false
   latestVersion: 2.02.61
-  collectedAt: 2026-09-04T19:20:23Z
+  collectedAt: 2026-09-04T21:20:08Z
 timeline:
   created: 2019-09-14
   lastCommit: 2026-09-01
@@ -81,5 +81,48 @@ total:
   openIssue: 11
   commit: 123
 ---
+path: /home/runner/.x-repo/github.com/scandum/tintin
+collectedAt: 2026-09-04T21:20:10Z
+loc:
+  C:
+    code: 57663
+    comments: 2561
+    blanks: 12338
+    files: 59
+  Html:
+    code: 5667
+    comments: 0
+    blanks: 975
+    files: 3
+  CHeader:
+    code: 4231
+    comments: 241
+    blanks: 855
+    files: 6
+  Autoconf:
+    code: 214
+    comments: 137
+    blanks: 149
+    files: 3
+  Yaml:
+    code: 35
+    comments: 0
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 25
+    blanks: 16
+    files: 1
+  Text:
+    code: 0
+    comments: 80
+    blanks: 33
+    files: 1
+total:
+  code: 67828
+  comments: 3044
+  blanks: 14371
+  files: 74
 ---
 
