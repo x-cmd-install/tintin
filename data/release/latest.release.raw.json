@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2337671,
       "digest": "sha256:640b4823b6f24ada6d417311bfd6263ab13be2422573c3b4ad4352223b535d88",
-      "download_count": 1687,
+      "download_count": 1689,
       "created_at": "2026-01-29T12:28:50Z",
       "updated_at": "2026-01-29T12:28:51Z",
       "browser_download_url": "https://github.com/scandum/tintin/releases/download/2.02.61/tintin-2.02.61.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4488704,
       "digest": "sha256:421a1458080413d5135a7490dc05ac0f4b54f1caadbfc033214536237420e847",
-      "download_count": 1051,
+      "download_count": 1053,
       "created_at": "2026-01-29T12:28:40Z",
       "updated_at": "2026-01-29T12:28:44Z",
       "browser_download_url": "https://github.com/scandum/tintin/releases/download/2.02.61/wintin-2.02.61.msi"
