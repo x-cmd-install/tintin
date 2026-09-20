@@ -4,7 +4,7 @@
 
 TinTin++, aka tt++, is an extensible console MUD client.
 
-![tintin](https://repo.x-cmd.io/tintin.svg)
+[![x-cmd/install — tintin Code Quality Monitoring Repo Card](https://repo.x-cmd.io/tintin.svg)](https://x-cmd.com/install/tintin)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install tintin
 
 ## Code insight
 
-Total: **68,661** lines of code across **72** files in the top 5 languages.
+Total: **68,805** lines of code across **72** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 58,458 | 2,645 | 12,488 | 59 |
+| C | 58,596 | 2,657 | 12,494 | 59 |
 | Html | 5,667 | 0 | 975 | 3 |
-| CHeader | 4,287 | 241 | 858 | 6 |
+| CHeader | 4,293 | 241 | 860 | 6 |
 | Autoconf | 214 | 137 | 149 | 3 |
 | Yaml | 35 | 0 | 5 | 1 |
 
@@ -33,27 +33,27 @@ Total: **68,661** lines of code across **72** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.02.61` (2026-01-29)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-19
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 260 · **Forks**: 82 · **Open issues**: 93 · **Contributors**: 13
+- **Stars**: 260 · **Forks**: 82 · **Open issues**: 95 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 23 · **Open PRs**: 0 · **Closed issues**: 80 · **Open issues**: 13 · **Commits**: 126
+- **Releases**: 21 · **Merged PRs**: 24 · **Open PRs**: 1 · **Closed issues**: 80 · **Open issues**: 15 · **Commits**: 129
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 4 | 0 | 0 | 4 | 26 |
-| last60d | 2026-07-20 | 0 | 9 | 0 | 2 | 6 | 39 |
-| 90d | 2026-06-20 | 0 | 9 | 0 | 2 | 6 | 39 |
-| last180d | 2026-03-22 | 0 | 10 | 0 | 2 | 6 | 40 |
-| 360d | 2025-09-23 | 2 | 11 | 0 | 3 | 6 | 46 |
-| last720d | 2024-09-28 | 4 | 12 | 0 | 9 | 6 | 67 |
+| 30d | 2026-08-21 | 0 | 3 | 1 | 0 | 5 | 8 |
+| last60d | 2026-07-22 | 0 | 10 | 1 | 2 | 8 | 41 |
+| 90d | 2026-06-22 | 0 | 10 | 1 | 2 | 8 | 41 |
+| last180d | 2026-03-24 | 0 | 11 | 1 | 2 | 8 | 42 |
+| 360d | 2025-09-25 | 2 | 12 | 1 | 3 | 8 | 48 |
+| last720d | 2024-09-30 | 4 | 13 | 1 | 9 | 8 | 70 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for tintin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T02:40:21Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T02:51:29Z._
