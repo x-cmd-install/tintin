@@ -38,22 +38,22 @@ Total: **68,805** lines of code across **72** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 260 · **Forks**: 82 · **Open issues**: 95 · **Contributors**: 13
+- **Stars**: 260 · **Forks**: 82 · **Open issues**: 96 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 24 · **Open PRs**: 1 · **Closed issues**: 80 · **Open issues**: 15 · **Commits**: 129
+- **Releases**: 21 · **Merged PRs**: 24 · **Open PRs**: 1 · **Closed issues**: 80 · **Open issues**: 16 · **Commits**: 129
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 3 | 1 | 0 | 5 | 8 |
-| last60d | 2026-07-22 | 0 | 10 | 1 | 2 | 8 | 41 |
-| 90d | 2026-06-22 | 0 | 10 | 1 | 2 | 8 | 41 |
-| last180d | 2026-03-24 | 0 | 11 | 1 | 2 | 8 | 42 |
-| 360d | 2025-09-25 | 2 | 12 | 1 | 3 | 8 | 48 |
-| last720d | 2024-09-30 | 4 | 13 | 1 | 9 | 8 | 70 |
+| 30d | 2026-08-22 | 0 | 3 | 1 | 0 | 6 | 8 |
+| last60d | 2026-07-23 | 0 | 10 | 1 | 2 | 9 | 41 |
+| 90d | 2026-06-23 | 0 | 10 | 1 | 2 | 9 | 41 |
+| last180d | 2026-03-25 | 0 | 11 | 1 | 2 | 9 | 42 |
+| 360d | 2025-09-26 | 2 | 12 | 1 | 3 | 9 | 48 |
+| last720d | 2024-10-01 | 4 | 13 | 1 | 9 | 9 | 70 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for tintin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T02:51:29Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T02:48:23Z._
