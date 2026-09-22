@@ -14,11 +14,11 @@ x install tintin
 
 ## Code insight
 
-Total: **68,805** lines of code across **72** files in the top 5 languages.
+Total: **68,804** lines of code across **72** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 58,596 | 2,657 | 12,494 | 59 |
+| C | 58,595 | 2,657 | 12,493 | 59 |
 | Html | 5,667 | 0 | 975 | 3 |
 | CHeader | 4,293 | 241 | 860 | 6 |
 | Autoconf | 214 | 137 | 149 | 3 |
@@ -33,7 +33,7 @@ Total: **68,805** lines of code across **72** files in the top 5 languages.
 ## Release
 
 - **Latest**: `2.02.61` (2026-01-29)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-21
 - **Assets in release**: 2
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **68,805** lines of code across **72** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 24 · **Open PRs**: 1 · **Closed issues**: 80 · **Open issues**: 16 · **Commits**: 129
+- **Releases**: 21 · **Merged PRs**: 24 · **Open PRs**: 1 · **Closed issues**: 83 · **Open issues**: 13 · **Commits**: 130
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 3 | 1 | 0 | 6 | 8 |
-| last60d | 2026-07-23 | 0 | 10 | 1 | 2 | 9 | 41 |
-| 90d | 2026-06-23 | 0 | 10 | 1 | 2 | 9 | 41 |
-| last180d | 2026-03-25 | 0 | 11 | 1 | 2 | 9 | 42 |
-| 360d | 2025-09-26 | 2 | 12 | 1 | 3 | 9 | 48 |
-| last720d | 2024-10-01 | 4 | 13 | 1 | 9 | 9 | 70 |
+| 30d | 2026-08-23 | 0 | 3 | 1 | 3 | 2 | 9 |
+| last60d | 2026-07-24 | 0 | 10 | 1 | 5 | 6 | 42 |
+| 90d | 2026-06-24 | 0 | 10 | 1 | 5 | 6 | 42 |
+| last180d | 2026-03-26 | 0 | 11 | 1 | 5 | 6 | 43 |
+| 360d | 2025-09-27 | 2 | 12 | 1 | 6 | 6 | 49 |
+| last720d | 2024-10-02 | 4 | 13 | 1 | 12 | 6 | 71 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for tintin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T02:48:23Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T02:49:27Z._
