@@ -48,12 +48,12 @@ Total: **68,804** lines of code across **72** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 0 | 1 | 4 | 2 | 11 | 3 |
-| 90d | 2026-08-12 | 0 | 9 | 4 | 5 | 16 | 32 |
-| last180d | 2026-05-14 | 0 | 10 | 4 | 5 | 16 | 42 |
-| 360d | 2025-11-15 | 2 | 12 | 4 | 6 | 16 | 49 |
-| last720d | 2024-11-20 | 4 | 14 | 4 | 11 | 16 | 71 |
+| 30d | 2026-10-12 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 0 | 1 | 4 | 2 | 11 | 3 |
+| 90d | 2026-08-13 | 0 | 9 | 4 | 5 | 16 | 32 |
+| last180d | 2026-05-15 | 0 | 10 | 4 | 5 | 16 | 42 |
+| 360d | 2025-11-16 | 2 | 12 | 4 | 6 | 16 | 49 |
+| last720d | 2024-11-21 | 4 | 14 | 4 | 11 | 16 | 71 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for tintin lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T05:35:57Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T04:08:24Z._
